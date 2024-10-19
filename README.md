@@ -23,21 +23,26 @@ Data Analysis and Visualization:
 
 The project provides comprehensive data analysis capabilities using Plotly and Streamlit. With the integrated Plotly library, users can create interactive and visually appealing charts and graphs to gain insights from the collected data. 
 
-  Channel Analysis:  
+Channel Analysis:  
 
-    Channel analysis includes insights on playlists, videos, subscribers, views, likes, comments, and durations. Gain a deep understanding of the channel's performance and audience engagement through detailed visualizations and summaries. 
+Channel analysis includes insights on playlists, videos, subscribers, views, likes, comments, and durations. Gain a deep understanding of the channel's performance and audience engagement through detailed visualizations and summaries. 
 
-  Video Analysis:  
+Video Analysis:  
 
-    Video analysis focuses on views, likes, comments, and durations, enabling both an overall channel and specific channel perspectives. Leverage visual representations and metrics to extract valuable insights from individual videos. 
+Video analysis focuses on views, likes, comments, and durations, enabling both an overall channel and specific channel perspectives. Leverage visual representations and metrics to extract valuable insights from individual videos. 
 
 The retrieved data is displayed within the Streamlit application, leveraging Streamlit's data visualization capabilities to create charts and graphs for users to analyse the data. 
 
 Technologies and Tools: 
 
 Programming Languages: Python 
+
 API: YouTube API 
+
 Data Transformation: Pandas 
+
 Data Storage: MongoDB and MySQL 
+
 Data Warehouse: MySQL (for analysis purpose) 
+
 Visualization: Streamlit 
